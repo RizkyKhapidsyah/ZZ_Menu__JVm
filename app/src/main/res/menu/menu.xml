@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/OM_OptionMenu_A_IDXML"
+        android:title="@string/OM_OptionMenu_A_IDXML" />
+
+    <item
+        android:id="@+id/OM_OptionMenu_B_IDXML"
+        android:title="@string/OM_OptionMenu_B_IDXML" />
+
+    <item
+        android:id="@+id/OM_OptionMenu_C_IDXML"
+        android:title="@string/OM_OptionMenu_C_IDXML" />
+
+    <item
+        android:id="@+id/OM_OptionMenu_D_IDXML"
+        android:title="@string/OM_OptionMenu_D_IDXML">
+
+        <menu>
+
+            <item
+                android:id="@+id/OM_OptionMenu_D1_IDXML"
+                android:title="@string/OM_OptionMenu_D1_IDXML"/>
+
+            <item
+                android:id="@+id/OM_OptionMenu_D2_IDXML"
+                android:title="@string/OM_OptionMenu_D2_IDXML"/>
+
+        </menu>
+
+    </item>
+
+</menu>

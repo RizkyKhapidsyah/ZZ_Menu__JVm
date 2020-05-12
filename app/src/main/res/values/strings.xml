@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ZZ_Menu__JVm</string>
+
+    <string name="OM_OptionMenu_A_IDXML">Option Menu : A</string>
+    <string name="OM_OptionMenu_B_IDXML">Option Menu : B</string>
+    <string name="OM_OptionMenu_C_IDXML">Option Menu : C</string>
+    <string name="OM_OptionMenu_D_IDXML">Option Menu : D</string>
+    <string name="OM_OptionMenu_D1_IDXML">Option SubMenu : D1</string>
+    <string name="OM_OptionMenu_D2_IDXML">Option SubMenu : D2</string>
+    <string name="TV_Judul_OM_IDXML">(Klik Tombol 3 Titik Di Bagian Atas Sebelah Kanan)..</string>
+    <string name="B_OptionMenu_IDXML">OPTION MENU</string>
+    <string name="TV_Judul_MAIN_IDXML">Silahkan Klik Untuk Melihat Contoh Menu :</string>
+    <string name="TV_Judul_CM_IDXML">(Silahkan Klik dan Tahan di Text Ini)</string>
+    <string name="B_ContextMenu_IDXML">CONTEXT MENU</string>
+    <string name="B_PopupMenu_IDXML">Klik Disini</string>
+    <string name="B_PopUpMenu_IDXML">POPUP MENU</string>
+</resources>

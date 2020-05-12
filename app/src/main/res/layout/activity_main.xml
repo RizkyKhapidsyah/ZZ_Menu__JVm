@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/TV_Judul_MAIN_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="23dp"
+        android:gravity="center"
+        android:text="@string/TV_Judul_MAIN_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="19dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/B_OptionMenu_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_OptionMenu_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/B_ContextMenu_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_ContextMenu_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/B_PopUpMenu_IDXML"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/B_PopUpMenu_IDXML"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
